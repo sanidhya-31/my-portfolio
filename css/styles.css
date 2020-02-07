@@ -1,0 +1,50 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: red;
+}
+h1{
+ 
+font-family: 'Jim Nightshade', cursive;
+    font size: 300px;
+    background-color: green;
+
+}
+h2{
+    color: red
+    font-size: 30px;
+}
+.top-cloud{
+    position: absolute;
+    right :30px;
+    top:5px;
+}
+.bottom-cloud{
+    position:absolute;
+    left:20%;
+    bottom=40%;
+}
+.pro{
+    text-decoration: underline;
+}
+.middle-container{
+    margin: 100px 0;;
+}
+.profile-img{
+    border-radius: 50%;
+}
+.intro{
+    width: 50%;
+    margin: auto;
+}
+hr{
+    width: 5%;
+    border-style: none none dotted;
+    border-width: 8px;
+    margin:100px auto;
+}
+.bike{
+    float:left;
+    margin-right: 30px;
+    width: 35;
+}
